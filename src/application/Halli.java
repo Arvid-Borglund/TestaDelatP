@@ -2,10 +2,10 @@ package application;
 
 public class Halli {
 
-// poopatron // 
-	// bumblepoop //
-	//ölishdfkhs
-	// elderpoop //
+// poopatronbjlhbljnljönlk 
+	// bumblepooplkjömoömjkö 
+	//ölishdfkhsoihjlkjä
+	// elderpoopölkm-lm.k-m.km 
 	
 	
 	
